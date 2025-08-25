@@ -1,5 +1,5 @@
 import { createHomeStyles } from "@/assets/styles/home.styles";
-import Header from "@/components/header";
+import Header from "@/components/Header";
 import useTheme from "@/hooks/UseTheme";
 import { LinearGradient } from "expo-linear-gradient";
 import { StatusBar, Text, TouchableOpacity } from "react-native";
