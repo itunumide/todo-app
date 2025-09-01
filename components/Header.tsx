@@ -31,6 +31,9 @@ const Header = () => {
           <Text style={HomeStyles.subtitle}>
             {completedCount} of {totalCount} completed{" "}
           </Text>
+          <Text style={HomeStyles.subtitle}>
+            {completedCount} of {totalCount} completed{" "}
+          </Text>
         </View>
       </View>
       {totalCount > 0 && (
